@@ -1,0 +1,35 @@
+# AI Chatbot in Java
+
+This project is a simple GUI-based chatbot built with Java Swing.
+
+## Features
+- Simple chat window
+- User input text field
+- Send button
+- Basic keyword-based responses
+
+## Requirements
+- Java JDK installed on your computer
+
+## How to Run
+1. Open a terminal in the project folder.
+2. Compile the program:
+   ```bash
+   javac chatbot.java
+   ```
+3. Run the program:
+   ```bash
+   java chatbot
+   ```
+
+## Example Questions
+- hello
+- hi
+- how are you
+- your name
+- bye
+- java
+- ai
+
+## Notes
+This is a basic chatbot and does not use a real AI API yet. It responds using predefined rules.
